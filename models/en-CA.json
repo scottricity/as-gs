@@ -16,7 +16,7 @@
                     "samples": []
                 },
                 {
-                    "name": "HelloWorldIntent",
+                    "name": "AMAZON.StatsIntent",
                     "slots": [],
                     "samples": [
                         "github stats",
