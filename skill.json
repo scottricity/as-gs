@@ -2,7 +2,7 @@
     "manifest": {
         "publishingInformation": {
             "locales": {
-                "en-US": {
+                "en-CA": {
                     "name": "Github Statistics",
                     "summary": "Sample Short Description",
                     "description": "Sample Full Description",
